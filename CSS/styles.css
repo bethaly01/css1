@@ -1,0 +1,160 @@
+.header-betha {
+    display: flex;
+    justify-content: center;
+    margin-left: 100px;
+    color: #eaf4fa;
+    font-size: 24px;
+  }
+  
+  .header-betha:hover {
+    color: #eaf4fa;
+    border-color: #eaf4fa;
+  }
+  
+  #logo {
+    width: 35px;
+    height: 35px;
+    margin-right: 10px;
+  }
+  
+  .bg-dark01 {
+    background-color: #0e2142;
+    color: white;
+  }
+  
+  .nav-item:hover {
+    background-color: #0e2142;
+  }
+  
+  .nav-link:hover {
+    color: #eaf4fa;
+  }
+  
+  .nav-link {
+    font-weight: 500;
+    font: size 14px;
+    color: #3e4453;
+    text-transform: capitalize;
+  }
+  
+  .navbar-betha {
+    padding-bottom: 5px;
+    padding-top: 0px;
+  }
+  /*Footer*/
+  .footer-betha {
+    background-color: #111b2d;
+    color: #eaf4fa;
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+  /*Home Page*/
+  .small-show {
+    float: left;
+    width: 18%;
+    background-color: #B2D6FF;
+    margin: 5px;
+  }
+  
+  .imagen-small {
+    width: 100%;
+    margin-right: 3px;
+    position: relative;
+    height: 172px;
+  }
+  
+  .intro {
+    background-image: url("https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/54ef8834502545.56d37588d3698.jpg");
+    background-size: cover;
+    height: 500px;
+    filter: blur(3px);
+    -webkit-filter: blur(3px);
+  }
+  
+  .container-intro {
+    background-color: rgb(0,0,0);
+    background-color: rgba(0,0,0, 0.8);
+    color: #f5f3eb;
+    border: 3px solid #f5f3eb;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 2;
+    width: 80%;
+    padding: 20px;
+    text-align: center;
+    font-size: 28px;
+  }
+  
+  .container-intro p {
+    font-weight: 100;
+  }
+  
+  .container-betha {
+    position: relative;
+  }
+  
+  .intro-imagen {
+    width: 30%;
+    height: 50%;
+  }
+  
+  .col-sm-7 {
+    background-image: url("https://mir-s3-cdn-cf.behance.net/project_modules/disp/52b64845133855.5607981c7d953.png");
+    background-size: cover;
+  }
+  
+  /*News*/
+  .card-img-top {
+    height: 190px;
+  }
+  /*Chapter of a Comic*/
+  .portada {
+    background-image: url(https://mir-s3-cdn-cf.behance.net/project_modules/disp/96c3dd45133861.5607951a157a7.png);
+    background-size: cover;
+    height: 300px;
+  }
+  
+  .preview-betha {
+    height: 73px;
+    width: 77px;
+  }
+  
+  /*Comic*/
+  .row img {
+    display: block;
+    margin: auto;
+  }
+  
+  .backgroud-comic {
+    background-color: black;
+  }
+  
+  .betha-color {
+    color: white;
+  }
+  
+  td {
+    vertical-align: middle!important;
+  }
+  
+  .bg-dark02 {
+    background-color: #000203;
+    color: white;
+  }
+  
+  .footer-betha01 {
+    background-color: #000000;
+    color: #eaf4fa;
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+  /*Popular comic*/
+  
+  #imagen img {
+    height: 100%;
+    width: 100%;
+    padding: 15px;
+  }
+    
